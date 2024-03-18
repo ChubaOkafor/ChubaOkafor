@@ -1,7 +1,5 @@
 ### Hi there 👋
-
 ###### I'm Chuba, a Data and Business Intelligence Analyst with a passion for data analysis and visualization. I have experience in SQL, Excel, and Business Intelligence tools like Power BI.
-
 ###### 🔭 I'm currently seeking Data Analyst and Business Intelligence roles, where I can apply my skills and contribute to data-driven decision-making.
 
 ###### 💼 Skills:
